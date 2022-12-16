@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Tour Guide App</string>
+    <string name="info">Info</string>
+    <string name="flag">The Flag </string>
+    <string name="ksa_desctpriton">Saudi Arabia  officially the Kingdom of Saudi Arabia (KSA), is a sovereign Arab state in Western Asia constituting the bulk of the Arabian Peninsula. With a land area of approximately 2,150,000 km2 (830,000 sq mi), Saudi Arabia is geographically the fifth-largest state in Asia and second-largest state in the Arab world after Algeria.         Saudi Arabia is bordered by Jordan and Iraq to the north, Kuwait to the northeast, Qatar, Bahrainand the United Arab Emirates to the east, Oman to the southeast and Yemen to the south. It is separated from Palestine and Egypt by the Gulf of Aqaba. It is the only nation with both a Red Sea coast and a ArabianGulf coast and most of its terrain consists of arid desert and mountains.</string>
+    <string name="event">Event</string>
+    <string name="historical">Historical</string>
+    <string name="city">City</string>
+    <string name="diriyah">Dir’iyah</string>
+    <string name="zabalcastlel">Za’bal Castlel</string>
+    <string name="jubbatHail">Jubbat Ha’il</string>
+    <string name="janadriya1439">Festival of Janadriya 1439</string>
+    <string name="nationalday">National day</string>
+    <string name="makkah">Makkah</string>
+    <string name="madinah">Madinah</string>
+    <string name="riyadh">Riyadh</string>
+    <string name="dammam">Dammam</string>
+    <string name="abha">Abha</string>
+    <string name="tabuk">Tabuk</string>
+    <string name="jeddah">Jeddah</string>
+</resources>
